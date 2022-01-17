@@ -1,0 +1,37 @@
+html {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,69,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.header {
+    background: #a5a5a5;
+    margin: 1rem;
+    padding:1rem;
+    border: 2px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+hr{
+    margin: 1rem;
+    border: 1px solid;
+}
+.fatherContainer {
+    height: 150px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.sonContainer{
+    background: #a5a5a5;
+    width: 50%;
+    height: 100%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+.red {
+    background:black;
+    color:tomato;
+}
